@@ -1,0 +1,7 @@
+Z:\c#\MVOP\advent1\advent1\bin\Debug\advent1.exe.config
+Z:\c#\MVOP\advent1\advent1\bin\Debug\advent1.exe
+Z:\c#\MVOP\advent1\advent1\bin\Debug\advent1.pdb
+Z:\c#\MVOP\advent1\advent1\obj\Debug\advent1.csproj.AssemblyReference.cache
+Z:\c#\MVOP\advent1\advent1\obj\Debug\advent1.csproj.CoreCompileInputs.cache
+Z:\c#\MVOP\advent1\advent1\obj\Debug\advent1.exe
+Z:\c#\MVOP\advent1\advent1\obj\Debug\advent1.pdb

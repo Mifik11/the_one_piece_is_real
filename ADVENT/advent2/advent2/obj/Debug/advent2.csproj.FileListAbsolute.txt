@@ -1,0 +1,7 @@
+Z:\c#\MVOP\ADVENT\advent2\advent2\bin\Debug\advent2.exe.config
+Z:\c#\MVOP\ADVENT\advent2\advent2\bin\Debug\advent2.exe
+Z:\c#\MVOP\ADVENT\advent2\advent2\bin\Debug\advent2.pdb
+Z:\c#\MVOP\ADVENT\advent2\advent2\obj\Debug\advent2.csproj.AssemblyReference.cache
+Z:\c#\MVOP\ADVENT\advent2\advent2\obj\Debug\advent2.csproj.CoreCompileInputs.cache
+Z:\c#\MVOP\ADVENT\advent2\advent2\obj\Debug\advent2.exe
+Z:\c#\MVOP\ADVENT\advent2\advent2\obj\Debug\advent2.pdb
